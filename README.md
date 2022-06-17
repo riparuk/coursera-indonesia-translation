@@ -1,5 +1,5 @@
-# coursera-translator-indonesia
-Translate your english subtitle to indonesia language in Coursera
+# coursera-translator-indonesia🇮🇩
+Help you study on coursera with indonesia subtitle
 
 ## Setup
 1. Download and extract the packages.
