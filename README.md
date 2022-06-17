@@ -8,6 +8,7 @@ Translate your english subtitle to indonesia language in Coursera
 4. Click to activate the extention
 
 ![](https://github.com/riparuk/coursera-indonesia-translator/blob/main/images/extention.png)
+
 6. If you want to resizer, you can install coursera subtitle resizer on Chrome Web Store (Optional)
 example: https://chrome.google.com/webstore/detail/coursera-subtitle-resizer/eaiabkjipjhalikppkkjoeefjnphgbpe
 # Enjoy
