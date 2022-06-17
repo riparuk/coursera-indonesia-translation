@@ -1,7 +1,7 @@
 # coursera-translator-indonesia🇮🇩
 Membantu kamu belajar di coursera dengan subtitle bahasa Indonesia
 
-## Setup
+# Setup
 1. Unduh dan ekstrak file nya.
 2. Pergi ke extensions, aktifkan developer mode, kemudian pilih "Load unpacked" dan arahkan ke folder file yang telah di ekstrak.  
 3. Buka link video coursera yang ingin di terjemahkan.
