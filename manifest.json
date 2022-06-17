@@ -1,22 +1,20 @@
 {
-    "manifest_version": 2,
-    "name": "Coursera Indonesia Translator",
-    "version": "0.0.1",
-    "content_scripts": [
-        {
-            "matches": [
-                "*://www.coursera.org/*"
-            ],
-            "js": [
-                "content.js"
-            ]
-        }
-    ],
-    "browser_action": {},
-    "background": {
-        "scripts": [
-            "background.js"
-        ],
-        "persistent": false
+  "manifest_version": 3,
+  "name": "Coursera Indonesia Translator",
+  "version": "0.0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.coursera.org/*"
+      ],
+      "js": [
+        "content.js"
+      ]
     }
+  ],
+  "background": {
+    "service_worker": "service_worker.js"
+  },
+  "action": {},
+  "content_security_policy": {}
 }
