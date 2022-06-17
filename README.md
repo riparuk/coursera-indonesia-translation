@@ -1,4 +1,4 @@
-# coursera-translator-indonesia🇮🇩
+# coursera-indonesia-translate🇮🇩
 Membantu kamu belajar di coursera dengan subtitle bahasa Indonesia
 
 ## Setup
