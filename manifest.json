@@ -2,6 +2,9 @@
   "manifest_version": 3,
   "name": "Coursera Indonesia Translator",
   "version": "0.0.1",
+  "icons": {
+	  "128": "/images/icons/icon_128.png"
+  },
   "content_scripts": [
     {
       "matches": [
